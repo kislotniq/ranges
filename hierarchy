@@ -1,0 +1,28 @@
+Where does the str class go?
+
+sptr
+checker
+foobar
+  range
+  mem-area
+    iter
+fecl
+  lazy
+
+
+
+sptr, fecl, foobar
+  range
+  mem-area
+    iter
+sptr, fecl
+  lazy
+
+sptr
+checker
+fecl
+  lazy
+  foobar
+    range
+    mem-area
+      iter
